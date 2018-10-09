@@ -14,3 +14,9 @@ Although created through SAS, the data is in .csv format.
 2013: https://github.com/plasmafairy/FARS_15years/blob/master/data2013.zip
 
 2012: https://github.com/plasmafairy/FARS_15years/blob/master/data2012.zip
+
+2011: https://github.com/plasmafairy/FARS_15years/blob/master/data2011.zip
+
+2010: https://github.com/plasmafairy/FARS_15years/blob/master/data2010.zip
+
+2009: https://github.com/plasmafairy/FARS_15years/blob/master/data2009.zip
