@@ -1,4 +1,5 @@
 This is Fatality Analysis Reporting System (FARS) data, merged by person, vehicle and accident characteristics.
+FARS data contains all fatal motor vehicle crashes in the United States.
 
 Original data file link: https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
 
