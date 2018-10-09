@@ -10,5 +10,7 @@ Disclaimer: The original data is from NHTSA. I merely merged the data through SA
 Although created through SAS, the data is in .csv format.
 
 2014: https://github.com/plasmafairy/FARS_15years/blob/master/data2014.zip
+
 2013: https://github.com/plasmafairy/FARS_15years/blob/master/data2013.zip
+
 2012: https://github.com/plasmafairy/FARS_15years/blob/master/data2012.zip
