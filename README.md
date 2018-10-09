@@ -4,7 +4,7 @@ Original data file link: https://www.nhtsa.gov/research-data/fatality-analysis-r
 
 Please refer to the codebook in the FTP to find out what each variable means.
 
-Disclaimer: The original data is from NHTSA. I merely merged the data using VIN through SAS, so as to help other researchers hoping to use this data for relevant research. 
+Disclaimer: The original data is from NHTSA. I merely merged the data through SAS, so as to help other researchers hoping to use this data for relevant research. 
 
 Although created through SAS, the data is in .csv format.
 
